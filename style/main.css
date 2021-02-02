@@ -1,0 +1,88 @@
+body{
+    width: 1400px;
+    height: 595px;
+    background: #FFFFFF;
+
+}
+header {
+    width: 1400px;
+    height: 250px;
+}
+h1 {
+    width: 409px;
+    height: 38px;
+    padding-top: 100px;
+    padding-bottom: 25px;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #212121;
+    text-transform: uppercase;
+}
+hr { 
+    width: 64px;
+    height: 2px;
+    border: none;
+    background: red;
+}
+h5 {
+    width: 363px;
+    padding-top: 30px;
+    margin: 0 auto;
+    font-family:'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #86878B;;
+}
+main {
+    width: 1400px ;
+    height: 345px;
+    padding-top: 67px;
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+}
+.circle {
+    width: 70px;
+    height: 70px;
+    border: 1px solid  #E72424;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.lamp {padding: 20px 24px;
+}
+.keyboard { padding: 22px 17px;
+}
+.lightning {padding: 19px 25px 18px 25px;
+}
+.block {
+    width: 350px;
+    height: 225px;
+    left: 143px;
+    top: 31px;
+    display: inline-block;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #333333;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+}
